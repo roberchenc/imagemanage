@@ -1,0 +1,128 @@
+d:\my documents\visual studio 2013\Projects\wjjq\wjjq\bin\Debug\wjjq.exe.config
+d:\my documents\visual studio 2013\Projects\wjjq\wjjq\bin\Debug\wjjq.exe
+d:\my documents\visual studio 2013\Projects\wjjq\wjjq\bin\Debug\wjjq.pdb
+d:\my documents\visual studio 2013\Projects\wjjq\wjjq\obj\Debug\wjjq.Form1.resources
+d:\my documents\visual studio 2013\Projects\wjjq\wjjq\obj\Debug\wjjq.Properties.Resources.resources
+d:\my documents\visual studio 2013\Projects\wjjq\wjjq\obj\Debug\wjjq.csproj.GenerateResource.Cache
+d:\my documents\visual studio 2013\Projects\wjjq\wjjq\obj\Debug\wjjq.exe
+d:\my documents\visual studio 2013\Projects\wjjq\wjjq\obj\Debug\wjjq.pdb
+D:\My Documents\Visual Studio 2013\Projects\wjjq\wjjq\obj\Debug\wjjq.csprojResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2013\Projects\wjjq\wjjq\bin\Debug\CSkin.dll
+D:\My Documents\Visual Studio 2013\Projects\wjjq\wjjq\bin\Debug\CSkin.xml
+D:\My Documents\Visual Studio 2013\Projects\wjjq\wjjq\obj\Debug\wjjq.Form2.resources
+D:\My Documents\Visual Studio 2013\Projects\wjjq\wjjq\bin\Debug\Model.dll
+D:\My Documents\Visual Studio 2013\Projects\wjjq\wjjq\bin\Debug\Model.pdb
+D:\My Documents\Visual Studio 2013\Projects\wjjq\wjjq\obj\Debug\wjjq.S1.resources
+D:\My Documents\Visual Studio 2013\Projects\wjjq\wjjq\obj\Debug\wjjq.S2.resources
+D:\My Documents\Visual Studio 2013\Projects\wjjq\wjjq\obj\Debug\wjjq.S3.resources
+D:\My Documents\Visual Studio 2013\Projects\wjjq\wjjq\obj\Debug\wjjq.SA4.resources
+D:\My Documents\Visual Studio 2013\Projects\wjjq\wjjq\obj\Debug\wjjq.SA5.resources
+D:\My Documents\Visual Studio 2013\Projects\wjjq\wjjq\obj\Debug\wjjq.SA3.resources
+D:\My Documents\Visual Studio 2013\Projects\wjjq\wjjq\obj\Debug\wjjq.SA2.resources
+D:\My Documents\Visual Studio 2013\Projects\wjjq\wjjq\obj\Debug\wjjq.SA1.resources
+D:\My Documents\Visual Studio 2013\Projects\wjjq\wjjq\obj\Debug\wjjq.paper.resources
+D:\My Documents\Visual Studio 2013\Projects\wjjq\wjjq\bin\Debug\wjjq.exe.manifest
+D:\My Documents\Visual Studio 2013\Projects\wjjq\wjjq\bin\Debug\wjjq.application
+D:\My Documents\Visual Studio 2013\Projects\wjjq\wjjq\obj\Debug\wjjq.exe.manifest
+D:\My Documents\Visual Studio 2013\Projects\wjjq\wjjq\obj\Debug\wjjq.application
+C:\Users\Jackson\Desktop\wjjq\bin\Debug\wjjq.exe.config
+C:\Users\Jackson\Desktop\wjjq\obj\Debug\wjjq.exe
+C:\Users\Jackson\Desktop\wjjq\obj\Debug\wjjq.pdb
+D:\WindowsProtect\Login\wjjq\bin\Debug\wjjq.exe.config
+D:\WindowsProtect\Login\wjjq\bin\Debug\wjjq.exe.manifest
+D:\WindowsProtect\Login\wjjq\bin\Debug\wjjq.application
+D:\WindowsProtect\Login\wjjq\bin\Debug\wjjq.exe
+D:\WindowsProtect\Login\wjjq\bin\Debug\wjjq.pdb
+D:\WindowsProtect\Login\wjjq\bin\Debug\BLL.dll
+D:\WindowsProtect\Login\wjjq\bin\Debug\DAL.dll
+D:\WindowsProtect\Login\wjjq\bin\Debug\Model.dll
+D:\WindowsProtect\Login\wjjq\bin\Debug\BLL.pdb
+D:\WindowsProtect\Login\wjjq\bin\Debug\DAL.pdb
+D:\WindowsProtect\Login\wjjq\bin\Debug\Model.pdb
+D:\WindowsProtect\Login\wjjq\obj\Debug\wjjq.Form1.resources
+D:\WindowsProtect\Login\wjjq\obj\Debug\wjjq.paper.resources
+D:\WindowsProtect\Login\wjjq\obj\Debug\wjjq.S1.resources
+D:\WindowsProtect\Login\wjjq\obj\Debug\wjjq.Properties.Resources.resources
+D:\WindowsProtect\Login\wjjq\obj\Debug\wjjq.S2.resources
+D:\WindowsProtect\Login\wjjq\obj\Debug\wjjq.S3.resources
+D:\WindowsProtect\Login\wjjq\obj\Debug\wjjq.SA1.resources
+D:\WindowsProtect\Login\wjjq\obj\Debug\wjjq.SA4.resources
+D:\WindowsProtect\Login\wjjq\obj\Debug\wjjq.SA5.resources
+D:\WindowsProtect\Login\wjjq\obj\Debug\wjjq.SA3.resources
+D:\WindowsProtect\Login\wjjq\obj\Debug\wjjq.SA2.resources
+D:\WindowsProtect\Login\wjjq\obj\Debug\wjjq.Spaper.resources
+D:\WindowsProtect\Login\wjjq\obj\Debug\wjjq.csproj.GenerateResource.Cache
+D:\WindowsProtect\Login\wjjq\obj\Debug\wjjq.exe.manifest
+D:\WindowsProtect\Login\wjjq\obj\Debug\wjjq.application
+D:\WindowsProtect\Login\wjjq\obj\Debug\wjjq.exe
+D:\WindowsProtect\Login\wjjq\obj\Debug\wjjq.pdb
+D:\WindowsProtect\Login\wjjq\obj\Debug\wjjq.User1.resources
+D:\WindowsProtect\Login\wjjq\obj\Debug\wjjq.User2.resources
+E:\Desktop\Login8.8\wjjq\bin\Debug\wjjq.exe.config
+E:\Desktop\Login8.8\wjjq\obj\Debug\wjjq.exe
+E:\Desktop\Login8.8\wjjq\obj\Debug\wjjq.pdb
+E:\Desktop\Login8.8\wjjq\bin\Debug\wjjq.exe.manifest
+E:\Desktop\Login8.8\wjjq\bin\Debug\wjjq.application
+E:\Desktop\Login8.8\wjjq\bin\Debug\wjjq.exe
+E:\Desktop\Login8.8\wjjq\bin\Debug\wjjq.pdb
+E:\Desktop\Login8.8\wjjq\bin\Debug\BLL.dll
+E:\Desktop\Login8.8\wjjq\bin\Debug\CSkin.dll
+E:\Desktop\Login8.8\wjjq\bin\Debug\DAL.dll
+E:\Desktop\Login8.8\wjjq\bin\Debug\Model.dll
+E:\Desktop\Login8.8\wjjq\bin\Debug\BLL.pdb
+E:\Desktop\Login8.8\wjjq\bin\Debug\CSkin.xml
+E:\Desktop\Login8.8\wjjq\bin\Debug\DAL.pdb
+E:\Desktop\Login8.8\wjjq\bin\Debug\Model.pdb
+E:\Desktop\Login8.8\wjjq\obj\Debug\wjjq.csprojResolveAssemblyReference.cache
+E:\Desktop\Login8.8\wjjq\obj\Debug\wjjq.Form1.resources
+E:\Desktop\Login8.8\wjjq\obj\Debug\wjjq.paper.resources
+E:\Desktop\Login8.8\wjjq\obj\Debug\wjjq.S1.resources
+E:\Desktop\Login8.8\wjjq\obj\Debug\wjjq.Properties.Resources.resources
+E:\Desktop\Login8.8\wjjq\obj\Debug\wjjq.S2.resources
+E:\Desktop\Login8.8\wjjq\obj\Debug\wjjq.S3.resources
+E:\Desktop\Login8.8\wjjq\obj\Debug\wjjq.SA1.resources
+E:\Desktop\Login8.8\wjjq\obj\Debug\wjjq.SA4.resources
+E:\Desktop\Login8.8\wjjq\obj\Debug\wjjq.SA5.resources
+E:\Desktop\Login8.8\wjjq\obj\Debug\wjjq.SA3.resources
+E:\Desktop\Login8.8\wjjq\obj\Debug\wjjq.SA2.resources
+E:\Desktop\Login8.8\wjjq\obj\Debug\wjjq.Spaper.resources
+E:\Desktop\Login8.8\wjjq\obj\Debug\wjjq.User1.resources
+E:\Desktop\Login8.8\wjjq\obj\Debug\wjjq.User2.resources
+E:\Desktop\Login8.8\wjjq\obj\Debug\wjjq.csproj.GenerateResource.Cache
+E:\Desktop\Login8.8\wjjq\obj\Debug\wjjq.exe.manifest
+E:\Desktop\Login8.8\wjjq\obj\Debug\wjjq.application
+E:\Desktop\Login8.8\wjjq\obj\Debug\wjjq.addDepartment.resources
+D:\WindowsProtect\Login\wjjq\obj\Debug\wjjq.addDepartment.resources
+D:\WindowsProtect\Login\wjjq\obj\Debug\wjjq.csprojResolveAssemblyReference.cache
+D:\WindowsProject\wujing\wujing\wujing\Login8.9\Login\wjjq\bin\Debug\wjjq.exe.config
+D:\WindowsProject\wujing\wujing\wujing\Login8.9\Login\wjjq\obj\Debug\wjjq.exe
+D:\WindowsProject\wujing\wujing\wujing\Login8.9\Login\wjjq\obj\Debug\wjjq.pdb
+D:\WindowsProject\wujing\wujing\wujing\Login8.9\Login\wjjq\bin\Debug\wjjq.exe.manifest
+D:\WindowsProject\wujing\wujing\wujing\Login8.9\Login\wjjq\bin\Debug\wjjq.application
+D:\WindowsProject\wujing\wujing\wujing\Login8.9\Login\wjjq\bin\Debug\wjjq.exe
+D:\WindowsProject\wujing\wujing\wujing\Login8.9\Login\wjjq\bin\Debug\wjjq.pdb
+D:\WindowsProject\wujing\wujing\wujing\Login8.9\Login\wjjq\bin\Debug\BLL.dll
+D:\WindowsProject\wujing\wujing\wujing\Login8.9\Login\wjjq\bin\Debug\DAL.dll
+D:\WindowsProject\wujing\wujing\wujing\Login8.9\Login\wjjq\bin\Debug\Model.dll
+D:\WindowsProject\wujing\wujing\wujing\Login8.9\Login\wjjq\bin\Debug\BLL.pdb
+D:\WindowsProject\wujing\wujing\wujing\Login8.9\Login\wjjq\bin\Debug\DAL.pdb
+D:\WindowsProject\wujing\wujing\wujing\Login8.9\Login\wjjq\bin\Debug\Model.pdb
+D:\WindowsProject\wujing\wujing\wujing\Login8.9\Login\wjjq\obj\Debug\wjjq.csprojResolveAssemblyReference.cache
+D:\WindowsProject\wujing\wujing\wujing\Login8.9\Login\wjjq\obj\Debug\wjjq.addDepartment.resources
+D:\WindowsProject\wujing\wujing\wujing\Login8.9\Login\wjjq\obj\Debug\wjjq.Form1.resources
+D:\WindowsProject\wujing\wujing\wujing\Login8.9\Login\wjjq\obj\Debug\wjjq.paper.resources
+D:\WindowsProject\wujing\wujing\wujing\Login8.9\Login\wjjq\obj\Debug\wjjq.S1.resources
+D:\WindowsProject\wujing\wujing\wujing\Login8.9\Login\wjjq\obj\Debug\wjjq.Properties.Resources.resources
+D:\WindowsProject\wujing\wujing\wujing\Login8.9\Login\wjjq\obj\Debug\wjjq.S2.resources
+D:\WindowsProject\wujing\wujing\wujing\Login8.9\Login\wjjq\obj\Debug\wjjq.S3.resources
+D:\WindowsProject\wujing\wujing\wujing\Login8.9\Login\wjjq\obj\Debug\wjjq.SA1.resources
+D:\WindowsProject\wujing\wujing\wujing\Login8.9\Login\wjjq\obj\Debug\wjjq.SA4.resources
+D:\WindowsProject\wujing\wujing\wujing\Login8.9\Login\wjjq\obj\Debug\wjjq.SA5.resources
+D:\WindowsProject\wujing\wujing\wujing\Login8.9\Login\wjjq\obj\Debug\wjjq.SA3.resources
+D:\WindowsProject\wujing\wujing\wujing\Login8.9\Login\wjjq\obj\Debug\wjjq.SA2.resources
+D:\WindowsProject\wujing\wujing\wujing\Login8.9\Login\wjjq\obj\Debug\wjjq.Spaper.resources
+D:\WindowsProject\wujing\wujing\wujing\Login8.9\Login\wjjq\obj\Debug\wjjq.User1.resources
+D:\WindowsProject\wujing\wujing\wujing\Login8.9\Login\wjjq\obj\Debug\wjjq.User2.resources
+D:\WindowsProject\wujing\wujing\wujing\Login8.9\Login\wjjq\obj\Debug\wjjq.csproj.GenerateResource.Cache
+D:\WindowsProject\wujing\wujing\wujing\Login8.9\Login\wjjq\obj\Debug\wjjq.exe.manifest
+D:\WindowsProject\wujing\wujing\wujing\Login8.9\Login\wjjq\obj\Debug\wjjq.application

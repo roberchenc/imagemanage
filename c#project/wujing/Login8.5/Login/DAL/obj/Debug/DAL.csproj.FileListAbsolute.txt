@@ -1,0 +1,17 @@
+F:\项目\三层架构\Login\DAL\bin\Debug\DAL.dll
+F:\项目\三层架构\Login\DAL\bin\Debug\DAL.pdb
+F:\项目\三层架构\Login\DAL\bin\Debug\Model.dll
+F:\项目\三层架构\Login\DAL\bin\Debug\Model.pdb
+F:\项目\三层架构\Login\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\项目\三层架构\Login\DAL\obj\Debug\DAL.dll
+F:\项目\三层架构\Login\DAL\obj\Debug\DAL.pdb
+D:\WindowsProtect\Login\DAL\bin\Debug\DAL.dll
+D:\WindowsProtect\Login\DAL\bin\Debug\DAL.pdb
+D:\WindowsProtect\Login\DAL\bin\Debug\Model.dll
+D:\WindowsProtect\Login\DAL\bin\Debug\System.Net.Http.dll
+D:\WindowsProtect\Login\DAL\bin\Debug\Model.pdb
+D:\WindowsProtect\Login\DAL\bin\Debug\System.Net.Http.xml
+D:\WindowsProtect\Login\DAL\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+D:\WindowsProtect\Login\DAL\obj\Debug\DAL.dll
+D:\WindowsProtect\Login\DAL\obj\Debug\DAL.pdb
+D:\WindowsProtect\Login\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache

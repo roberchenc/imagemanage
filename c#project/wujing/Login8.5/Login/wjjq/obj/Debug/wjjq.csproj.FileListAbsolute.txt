@@ -1,0 +1,60 @@
+d:\my documents\visual studio 2013\Projects\wjjq\wjjq\bin\Debug\wjjq.exe.config
+d:\my documents\visual studio 2013\Projects\wjjq\wjjq\bin\Debug\wjjq.exe
+d:\my documents\visual studio 2013\Projects\wjjq\wjjq\bin\Debug\wjjq.pdb
+d:\my documents\visual studio 2013\Projects\wjjq\wjjq\obj\Debug\wjjq.Form1.resources
+d:\my documents\visual studio 2013\Projects\wjjq\wjjq\obj\Debug\wjjq.Properties.Resources.resources
+d:\my documents\visual studio 2013\Projects\wjjq\wjjq\obj\Debug\wjjq.csproj.GenerateResource.Cache
+d:\my documents\visual studio 2013\Projects\wjjq\wjjq\obj\Debug\wjjq.exe
+d:\my documents\visual studio 2013\Projects\wjjq\wjjq\obj\Debug\wjjq.pdb
+D:\My Documents\Visual Studio 2013\Projects\wjjq\wjjq\obj\Debug\wjjq.csprojResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2013\Projects\wjjq\wjjq\bin\Debug\CSkin.dll
+D:\My Documents\Visual Studio 2013\Projects\wjjq\wjjq\bin\Debug\CSkin.xml
+D:\My Documents\Visual Studio 2013\Projects\wjjq\wjjq\obj\Debug\wjjq.Form2.resources
+D:\My Documents\Visual Studio 2013\Projects\wjjq\wjjq\bin\Debug\Model.dll
+D:\My Documents\Visual Studio 2013\Projects\wjjq\wjjq\bin\Debug\Model.pdb
+D:\My Documents\Visual Studio 2013\Projects\wjjq\wjjq\obj\Debug\wjjq.S1.resources
+D:\My Documents\Visual Studio 2013\Projects\wjjq\wjjq\obj\Debug\wjjq.S2.resources
+D:\My Documents\Visual Studio 2013\Projects\wjjq\wjjq\obj\Debug\wjjq.S3.resources
+D:\My Documents\Visual Studio 2013\Projects\wjjq\wjjq\obj\Debug\wjjq.SA4.resources
+D:\My Documents\Visual Studio 2013\Projects\wjjq\wjjq\obj\Debug\wjjq.SA5.resources
+D:\My Documents\Visual Studio 2013\Projects\wjjq\wjjq\obj\Debug\wjjq.SA3.resources
+D:\My Documents\Visual Studio 2013\Projects\wjjq\wjjq\obj\Debug\wjjq.SA2.resources
+D:\My Documents\Visual Studio 2013\Projects\wjjq\wjjq\obj\Debug\wjjq.SA1.resources
+D:\My Documents\Visual Studio 2013\Projects\wjjq\wjjq\obj\Debug\wjjq.paper.resources
+D:\My Documents\Visual Studio 2013\Projects\wjjq\wjjq\bin\Debug\wjjq.exe.manifest
+D:\My Documents\Visual Studio 2013\Projects\wjjq\wjjq\bin\Debug\wjjq.application
+D:\My Documents\Visual Studio 2013\Projects\wjjq\wjjq\obj\Debug\wjjq.exe.manifest
+D:\My Documents\Visual Studio 2013\Projects\wjjq\wjjq\obj\Debug\wjjq.application
+C:\Users\Jackson\Desktop\wjjq\bin\Debug\wjjq.exe.config
+C:\Users\Jackson\Desktop\wjjq\obj\Debug\wjjq.exe
+C:\Users\Jackson\Desktop\wjjq\obj\Debug\wjjq.pdb
+D:\WindowsProtect\Login\wjjq\bin\Debug\wjjq.exe.config
+D:\WindowsProtect\Login\wjjq\obj\Debug\wjjq.exe
+D:\WindowsProtect\Login\wjjq\obj\Debug\wjjq.pdb
+D:\WindowsProtect\Login\wjjq\bin\Debug\wjjq.exe.manifest
+D:\WindowsProtect\Login\wjjq\bin\Debug\wjjq.application
+D:\WindowsProtect\Login\wjjq\bin\Debug\wjjq.exe
+D:\WindowsProtect\Login\wjjq\bin\Debug\wjjq.pdb
+D:\WindowsProtect\Login\wjjq\bin\Debug\Model.dll
+D:\WindowsProtect\Login\wjjq\bin\Debug\CSkin.xml
+D:\WindowsProtect\Login\wjjq\bin\Debug\Model.pdb
+D:\WindowsProtect\Login\wjjq\obj\Debug\wjjq.csprojResolveAssemblyReference.cache
+D:\WindowsProtect\Login\wjjq\obj\Debug\wjjq.Form1.resources
+D:\WindowsProtect\Login\wjjq\obj\Debug\wjjq.paper.resources
+D:\WindowsProtect\Login\wjjq\obj\Debug\wjjq.S1.resources
+D:\WindowsProtect\Login\wjjq\obj\Debug\wjjq.Properties.Resources.resources
+D:\WindowsProtect\Login\wjjq\obj\Debug\wjjq.S2.resources
+D:\WindowsProtect\Login\wjjq\obj\Debug\wjjq.S3.resources
+D:\WindowsProtect\Login\wjjq\obj\Debug\wjjq.SA1.resources
+D:\WindowsProtect\Login\wjjq\obj\Debug\wjjq.SA4.resources
+D:\WindowsProtect\Login\wjjq\obj\Debug\wjjq.SA5.resources
+D:\WindowsProtect\Login\wjjq\obj\Debug\wjjq.SA3.resources
+D:\WindowsProtect\Login\wjjq\obj\Debug\wjjq.SA2.resources
+D:\WindowsProtect\Login\wjjq\obj\Debug\wjjq.csproj.GenerateResource.Cache
+D:\WindowsProtect\Login\wjjq\obj\Debug\wjjq.exe.manifest
+D:\WindowsProtect\Login\wjjq\obj\Debug\wjjq.application
+D:\WindowsProtect\Login\wjjq\bin\Debug\BLL.dll
+D:\WindowsProtect\Login\wjjq\bin\Debug\DAL.dll
+D:\WindowsProtect\Login\wjjq\bin\Debug\BLL.pdb
+D:\WindowsProtect\Login\wjjq\bin\Debug\DAL.pdb
+D:\WindowsProtect\Login\wjjq\obj\Debug\wjjq.Spaper.resources
